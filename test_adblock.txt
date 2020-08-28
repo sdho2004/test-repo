@@ -1,5 +1,5 @@
-*youtube.com
-*googlevideo.com
+youtube.com
+googlevideo.com
 www.youtube.com
 m.youtube.com
 ytimg.l.google.com
